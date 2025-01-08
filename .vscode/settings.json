@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/mac/code/jsoup-1.18.3.jar"
+    ]
+}
