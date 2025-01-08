@@ -11,8 +11,7 @@ public class JsoupReviewSample
 
 
 /**
- * Example program to list links from a URL.
-  * @throws IOException 
+ * Simple review scraping example 
   */
  
      public static void main(String[] args) throws IOException {  
